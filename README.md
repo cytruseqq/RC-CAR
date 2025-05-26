@@ -1,5 +1,85 @@
-#Raport-z-projektu-pojazdu-autonomicznego
-Raport zawiera opis związany z projektem pojazdu
+# 🚗 Autonomiczny Pojazd z STM32
 
-Autorzy: Witów Adrian 21319, Czyżewska Magdalena 21227, Lepak Michał 21255
+Projekt semestralny z przedmiotu **Systemy Wbudowane i Mikrokontrolery**  
+Autor: Magdalena Czyżewska 21227, Adrian Witów 21319, Michał Lepak 21255  
+Data rozpoczęcia: 16.03.2025  
+Repozytorium zawiera kod, dokumentację oraz materiały projektowe.
 
+---
+
+## 📌 Opis projektu
+
+Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pomocą mikrokontrolera STM32. Pojazd porusza się w trybie manualnym oraz automatycznym, gdzie omija przeszkody. Komunikacja z użytkownikiem odbywa się przez UART (Bluetooth).
+
+---
+
+## 🛠️ Zastosowane technologie i narzędzia
+
+- **Podwozie:** Wycięta sklejka
+- **Mikrokontroler:** STM32F3DISCOVERY
+- **IDE:** STM32CubeIDE
+- **Sensor:** HC-SR04 (ultradźwiękowy)
+- **Zasilanie:** Baterie AA 6x1.5V
+- **Sterownik silników:** L298N
+- **Komunikacja:** UART (Bluetooth HC-05)
+- **Wyświetlacz:** OLED 0,96' 128x64
+- **Silniki:** 4x zestaw silników elektrycznych DC 3-6V z podwójnym wałem i przekładnią magnetyczną wraz z kołami
+- **Koszyki na baterie:** Pojemnik na 6 baterii 1.5V (łącznie 9V)
+- **Aplikacja do sterowania:** UZUPELNIC
+
+## 🔌 Schematy układów
+
+
+
+## ⚙️ Funkcjonalności
+
+- ✅ Napęd sterowany przez PWM z użyciem Timerów
+- ✅ Obsługa sensorów ultradźwiękowych (pomiar odległości)
+- ✅ Detekcja kolizji i unikanie przeszkód
+- ✅ Sterowanie ruchem przez UART (komendy tekstowe)
+- ✅ Zasilanie bateryjne – pełna autonomia
+
+## 📁 Struktura repozytorium
+
+
+## 🔌 Komendy UART
+
+| Komenda | Opis                    |
+|--------:|-------------------------|
+| `START` | Uruchamia pojazd       |
+| `STOP`  | Zatrzymuje pojazd      |
+| `LEFT`  | Skręt w lewo           |
+| `RIGHT` | Skręt w prawo          |
+| `DIST?` | Zwraca odczyt z HC-SR04 |
+
+## 🧪 Scenariusze testowe
+
+- [x] Detekcja przeszkody z przodu (sensor HC-SR04)
+- [x] Komunikacja przez Bluetooth
+- [x] Test zasilania bateryjnego
+- [x] Sterowanie ruchem w czasie rzeczywistym
+
+## 📸 Demo i zdjęcia
+
+- Zdjęcia pojazdu: [`/Media/photos/`](./Media/photos/)
+- Nagranie testów: [Demo Video](#) *(link do YouTube lub Dysku Google)*
+
+
+## 📄 Dokumentacja
+
+Pełna dokumentacja projektu znajduje się w folderze [`Docs/`](./Docs/), w tym:
+- Raport końcowy (PDF)
+- Schematy układów
+- Lista komponentów
+
+
+## 🧠 Wnioski
+
+
+## 📬 Kontakt
+
+W razie pytań:
+- Email: 21319@student.ans-elblag.pl
+- GitHub: https://github.com/cytruseqq/
+
+**Licencja:** MIT  
