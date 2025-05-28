@@ -1,7 +1,7 @@
 # 🚗 Autonomiczny Pojazd z STM32
 
 Projekt semestralny z przedmiotu **Systemy Wbudowane i Mikrokontrolery**  
-Autor: Magdalena Czyżewska 21227, Adrian Witów 21319, Michał Lepak 21255  
+Autorzy: Magdalena Czyżewska 21227, Adrian Witów 21319, Michał Lepak 21255  
 Data rozpoczęcia: 16.03.2025  
 Repozytorium zawiera kod, dokumentację oraz materiały projektowe.
 
