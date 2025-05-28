@@ -27,9 +27,13 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 - **Koszyki na baterie:** Pojemnik na 6 baterii 1.5V (łącznie 9V)
 - **Aplikacja do sterowania:** UZUPELNIC
 
-## 🔌 Schematy układów
+---
 
+## 🔌 Schemat układu
 
+![schemat](https://github.com/user-attachments/assets/f61a6a21-8109-4fa3-a82e-791766db3f4b)
+
+---
 
 ## ⚙️ Funkcjonalności
 
