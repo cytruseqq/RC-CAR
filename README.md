@@ -49,6 +49,8 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 ├── Project/
 │   ├── Docs/
 │   ├── Media/
+│          ├── Photos/
+│          ├── Videos/
 ├── LICENSE.md/
 ├── README.md/
 ```
@@ -72,13 +74,13 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 ## 📸 Demo i zdjęcia
 
-- Zdjęcia pojazdu: [`/Media/photos/`](./Media/photos/)
-- Nagranie testów: [Demo Video](#) *(link do YouTube lub Dysku Google)*
+- Zdjęcia pojazdu: [`/Media/Photos/`](./Media/Photos/)
+- Nagranie testów: [`/Media/Videos/`](./Media/Videos/)
 
 
 ## 📄 Dokumentacja
 
-Pełna dokumentacja projektu znajduje się w folderze [`Docs/`](./Docs/), w tym:
+Pełna dokumentacja projektu znajduje się w folderze [`/Proect/Docs/`](./Project/Docs/), w tym:
 - Raport końcowy (PDF)
 - Schematy układów
 - Lista komponentów
