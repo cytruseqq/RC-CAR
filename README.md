@@ -33,7 +33,7 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 ![schemat](https://github.com/user-attachments/assets/f61a6a21-8109-4fa3-a82e-791766db3f4b)
 
-## 🔌 Schemat połączeń
+## 🔌 Opis połączeń
 
 - Silnik 1: L298N -> OUT1, OUT2
 - Silnik 2: L298N -> OUT1, OUT2
