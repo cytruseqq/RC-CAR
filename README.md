@@ -95,4 +95,4 @@ W razie pytań:
 - Email: 21319@student.ans-elblag.pl
 - GitHub: https://github.com/cytruseqq/
 
-**Licencja:** MIT  
+**Licencja:** MIT - [`/LICENSE.md`](./LICENSE.md)
