@@ -121,6 +121,17 @@ Pełna dokumentacja projektu znajduje się w folderze [`/Project/Docs/`](./Proje
 
 ## 🧠 Wnioski
 
+Projekt RC-CAR pozwolił na praktyczne połączenie wiedzy z zakresu elektroniki, programowania mikrokontrolerów oraz komunikacji bezprzewodowej. Podczas realizacji projektu udało się osiągnąć kilka kluczowych celów:
+- Integracja komponentów sprzętowych: Udało się z powodzeniem połączyć serwomechanizmy, moduł napędowy, czujniki oraz moduł komunikacji Bluetooth z mikrokontrolerem, co stanowi solidną bazę do dalszego rozwoju funkcjonalności pojazdu.
+- Zdalne sterowanie: Dzięki zastosowaniu aplikacji mobilnej, samochód może być sterowany w czasie rzeczywistym za pomocą modułu Bluetooth, co czyni projekt interaktywnym i użytecznym w praktyce.
+- Modularność i łatwość rozbudowy: Projekt został zbudowany w sposób umożliwiający łatwe dodawanie kolejnych funkcji, takich jak: unikanie przeszkód, tryb autonomiczny, czy streaming obrazu z kamery.
+- Rozwijanie umiejętności: Praca nad projektem znacząco rozwinęła kompetencje w zakresie:
+	- programowania mikrokontrolerów
+	- debugowania układów elektronicznych
+	- zarządzania zasilaniem i komunikacją bezprzewodową
+- Możliwości edukacyjne: Projekt może służyć jako świetne wprowadzenie do robotyki mobilnej i być używany na zajęciach lub warsztatach edukacyjnych.
+
+---
 
 ## 📬 Kontakt
 
