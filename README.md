@@ -15,7 +15,7 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 ## 🛠️ Zastosowane technologie i narzędzia
 
-- **Podwozie:** Wycięta sklejka
+- **Podwozie:** Wycięty panel podłogowy
 - **Mikrokontroler:** STM32F3DISCOVERY
 - **IDE:** STM32CubeIDE
 - **Sensor:** HC-SR04 (ultradźwiękowy)
@@ -45,11 +45,13 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 ## 📁 Struktura repozytorium
 
+```
 ├── Project/
 │   ├── Docs/
 │   ├── Media/
 ├── LICENSE.md/
 ├── README.md/
+```
 
 ## 🔌 Komendy UART
 
