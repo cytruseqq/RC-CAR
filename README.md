@@ -39,24 +39,24 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 - Silnik 2: L298N -> OUT1, OUT2
 - Silnik 3: L298N -> OUT3, OUT3
 - Silnik 4: L298N -> OUT4, OUT4
-Zasilanie bateriami: L298N + -> 12V, - -> GND
-Uziemienie płytki: L298N -> GND, STM32 -> GND
-Zasilanie płytki: L298N -> 5V, STM32 -> 5V
-Wejście sterujące IN1: L298N -> STM32 PC8
-Wejście sterujące IN2: L298N -> STM32 PC9
-Wejście sterujące IN3: L298N -> STM32 PC6
-Wejście sterujące IN4: L298N -> STM32 PC7
-Czujnik odległościowy: HC-SR04  GND -> STM32 GND
-Czujnik odległościowy: HC-SR04  Echo -> STM32 PA1
-Czujnik odległościowy: HC-SR04  Trig -> STM32 PA4
-Czujnik odległościowy: HC-SR04  Vcc -> STM32 5V
-Moduł bluetooth: HC-05 Vcc -> 5V
-Moduł bluetooth: HC-05 GND -> STM32 GND
-Moduł bluetooth: HC-05 TXD -> STM32 PA3
-Wyświetlacz: OLED GND -> STM32 GND
-Wyświetlacz: OLED VCC -> STM32 3V
-Wyświetlacz: OLED SCL -> STM32 PB6
-Wyświetlacz: OLED SDA -> STM32 PB7
+- Zasilanie bateriami: L298N + -> 12V, - -> GND
+- Uziemienie płytki: L298N -> GND, STM32 -> GND
+- Zasilanie płytki: L298N -> 5V, STM32 -> 5V
+- Wejście sterujące IN1: L298N -> STM32 PC8
+- Wejście sterujące IN2: L298N -> STM32 PC9
+- Wejście sterujące IN3: L298N -> STM32 PC6
+- Wejście sterujące IN4: L298N -> STM32 PC7
+- Czujnik odległościowy: HC-SR04  GND -> STM32 GND
+- Czujnik odległościowy: HC-SR04  Echo -> STM32 PA1
+- Czujnik odległościowy: HC-SR04  Trig -> STM32 PA4
+- Czujnik odległościowy: HC-SR04  Vcc -> STM32 5V
+- Moduł bluetooth: HC-05 Vcc -> 5V
+- Moduł bluetooth: HC-05 GND -> STM32 GND
+- Moduł bluetooth: HC-05 TXD -> STM32 PA3
+- Wyświetlacz: OLED GND -> STM32 GND
+- Wyświetlacz: OLED VCC -> STM32 3V
+- Wyświetlacz: OLED SCL -> STM32 PB6
+- Wyświetlacz: OLED SDA -> STM32 PB7
 
 ---
 
