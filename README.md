@@ -95,7 +95,6 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 | `400 tył`     | Moc PWM ustawiona na 400 do tyłu    |
 | `500 przód`   | Moc PWM ustawiona na 500 do przodu  |
 | `900 przód`   | Moc PWM ustawiona na 900 do przodu  |
-|---------------|-------------------------------------|
 
 ---
 
