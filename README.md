@@ -34,10 +34,11 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 ![schemat](https://github.com/user-attachments/assets/f61a6a21-8109-4fa3-a82e-791766db3f4b)
 
 ## 🔌 Schemat połączeń
-Silnik 1: L298N -> OUT1, OUT2
-Silnik 2: L298N -> OUT1, OUT2
-Silnik 3: L298N -> OUT3, OUT3
-Silnik 4: L298N -> OUT4, OUT4
+
+- Silnik 1: L298N -> OUT1, OUT2
+- Silnik 2: L298N -> OUT1, OUT2
+- Silnik 3: L298N -> OUT3, OUT3
+- Silnik 4: L298N -> OUT4, OUT4
 Zasilanie bateriami: L298N + -> 12V, - -> GND
 Uziemienie płytki: L298N -> GND, STM32 -> GND
 Zasilanie płytki: L298N -> 5V, STM32 -> 5V
