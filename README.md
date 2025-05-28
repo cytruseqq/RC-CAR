@@ -41,6 +41,11 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 ## 📁 Struktura repozytorium
 
+├── Project/
+│   ├── Docs/
+│   ├── Media/
+├── LICENSE.md/
+├── README.md/
 
 ## 🔌 Komendy UART
 
