@@ -9,7 +9,7 @@ Repozytorium zawiera kod, dokumentację oraz materiały projektowe.
 
 ## 📌 Opis projektu
 
-Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pomocą mikrokontrolera STM32. Pojazd porusza się w trybie manualnym oraz automatycznym, gdzie omija przeszkody. Komunikacja z użytkownikiem odbywa się przez UART (Bluetooth).
+Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pomocą mikrokontrolera STM32. Pojazd porusza się w trybie manualnym oraz automatycznym, gdzie omija przeszkody. Komunikacja z użytkownikiem odbywa się przez UART (Bluetooth). Pojazd jest zasilony 6 bateriami AA, generującymi łącznie 9V co umożliwia w pełni zasilenie pojazdu wraz z jego komponentami.
 
 ---
 
@@ -25,7 +25,7 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 - **Wyświetlacz:** OLED 0,96' 128x64
 - **Silniki:** 4x zestaw silników elektrycznych DC 3-6V z podwójnym wałem i przekładnią magnetyczną wraz z kołami
 - **Koszyki na baterie:** Pojemnik na 6 baterii 1.5V (łącznie 9V)
-- **Aplikacja do sterowania:** UZUPELNIC
+- **Aplikacja do sterowania:** Serial Bluetooth Terminal
 
 ---
 
