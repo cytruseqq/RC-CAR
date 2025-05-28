@@ -81,15 +81,23 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 ├── README.md/
 ```
 
-## 🔌 Komendy UART
+## 🔌 Polecenia sterujące
 
-| Komenda | Opis                    |
-|--------:|-------------------------|
-| `START` | Uruchamia pojazd       |
-| `STOP`  | Zatrzymuje pojazd      |
-| `LEFT`  | Skręt w lewo           |
-| `RIGHT` | Skręt w prawo          |
-| `DIST?` | Zwraca odczyt z HC-SR04 |
+| Komenda       | Opis                                |
+|--------------:|-------------------------------------|
+| `Przód`       | Jazda w przód                       |
+| `Tył`         | Jazda w tył                         |
+| `Lewo`        | Jazda w lewo                        |
+| `Prawo`       | Jazda w prawo                       |
+| `Manual`      | Przełączenie na sterowanie manualne |
+| `Stop  `      | Zatrzymanie się                     |
+| `Autonomiczna`| Jazda autonomiczna                  |
+| `400 tył`     | Moc PWM ustawiona na 400 do tyłu    |
+| `500 przód`   | Moc PWM ustawiona na 500 do przodu  |
+| `900 przód`   | Moc PWM ustawiona na 900 do przodu  |
+|---------------|-------------------------------------|
+
+---
 
 ## 🧪 Scenariusze testowe
 
