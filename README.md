@@ -86,6 +86,8 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 ├── Project/
 │   ├── Docs/
 │	├── Raport.docx/
+│	├── STM32F3Discovery Documentation.pdf/
+│	├── Schemat układu.pdf
 │   ├── Media/
 │          ├── Photos/
 │          ├── Videos/
