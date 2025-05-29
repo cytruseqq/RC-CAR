@@ -90,18 +90,21 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 ## 🔌 Polecenia sterujące
 
-| Komenda       | Opis                                |
+| Komenda       | Opis                                  |
 |--------------:|-------------------------------------|
-| `Przód`       | Jazda w przód                       |
-| `Tył`         | Jazda w tył                         |
-| `Lewo`        | Jazda w lewo                        |
-| `Prawo`       | Jazda w prawo                       |
-| `Manual`      | Przełączenie na sterowanie manualne |
-| `Stop  `      | Zatrzymanie się                     |
-| `Autonomiczna`| Jazda autonomiczna                  |
-| `400 tył`     | Moc PWM ustawiona na 400 do tyłu    |
-| `500 przód`   | Moc PWM ustawiona na 500 do przodu  |
-| `900 przód`   | Moc PWM ustawiona na 900 do przodu  |
+| `PRZÓD`       | Jazda w przód                       |
+| `TYŁ`         | Jazda w tył                         |
+| `LEWO`        | Jazda w lewo                        |
+| `PRAWO`       | Jazda w prawo                       |
+| `MANUALNY`      | Przełączenie na sterowanie manualne |
+| `STOP`      | Zatrzymanie się                     |
+| `AUTONOMICZNY`| Jazda autonomiczna                  |
+| `900 TYŁ`     | Moc PWM ustawiona na 900 do tyłu    |
+| `600 PRZÓD`   | Moc PWM ustawiona na 600 do przodu  |
+| `900 PRZÓD`   | Moc PWM ustawiona na 900 do przodu  |
+| `LED1`   | Pierwszy tryb pierścieni LED  |
+| `LED2`   | Drugi tryb pierścieni LED  |
+| `LED3`   | Trzeci tryb pierścieni LED  |
 
 ---
 
