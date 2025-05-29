@@ -25,6 +25,7 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 - **Wyświetlacz:** OLED 0,96' 128x64
 - **Silniki:** 4x zestaw silników elektrycznych DC 3-6V z podwójnym wałem i przekładnią magnetyczną wraz z kołami
 - **Koszyki na baterie:** Pojemnik na 6 baterii 1.5V (łącznie 9V)
+- **Oświetlenie:** 2x Pierścień LED RGB 8 bits
 - **Aplikacja do sterowania:** Serial Bluetooth Terminal
 
 ---
@@ -58,6 +59,12 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 - Wyświetlacz: OLED VCC -> STM32 3V
 - Wyświetlacz: OLED SCL -> STM32 PB6
 - Wyświetlacz: OLED SDA -> STM32 PB7
+- Pierścień 1: LED 5V -> L298N 5V
+- Pierścień 1: LED GND -> STM32 GND
+- Pierścień 1: LED DI -> STM32 PA8
+- Pierścień 2: LED 5V -> L298N 5V
+- Pierścień 2: LED GND -> STM32 GND
+- Pierścień 2: LED DI -> Pierścień 1 LED DO
 
 ---
 
