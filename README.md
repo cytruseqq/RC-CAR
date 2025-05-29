@@ -85,6 +85,7 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 ```
 ├── Project/
 │   ├── Docs/
+│	├── Raport.docx/
 │   ├── Media/
 │          ├── Photos/
 │          ├── Videos/
