@@ -73,6 +73,8 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 - ✅ Napęd sterowany przez PWM z użyciem Timerów
 - ✅ Obsługa sensorów ultradźwiękowych (pomiar odległości)
 - ✅ Detekcja kolizji i unikanie przeszkód
+- ✅ Obsługa pierścieni LED
+- ✅ Obsługa wyświetlacza OLED
 - ✅ Sterowanie ruchem przez UART (komendy tekstowe)
 - ✅ Zasilanie bateryjne – pełna autonomia
 
