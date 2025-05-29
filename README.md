@@ -26,8 +26,8 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 - **Silniki:** 4x zestaw silników elektrycznych DC 3-6V z podwójnym wałem i przekładnią magnetyczną wraz z kołami
 - **Koszyki na baterie:** Pojemnik na 6 baterii 1.5V (łącznie 9V)
 - **Oświetlenie:** 2x Pierścień LED RGB 8 bits
-- **Przewody:** męsko-żeńskie 7 sztuk 20cm
-- **Przewody:** żeńsko-żeńskie 16 sztuk 20cm
+- **Przewody:** męsko-żeńskie 20cm, 7 sztuk
+- **Przewody:** żeńsko-żeńskie 20cm, 16 sztuk
 - **Aplikacja do sterowania:** Serial Bluetooth Terminal
 
 ---
