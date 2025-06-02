@@ -81,7 +81,7 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/9.png)
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/10.png)
 
-3. W programie przechodzimy do zakładki File, a następnie klikamy przycisk "Import".
+3. W programie STM32CubeIDE przechodzimy do zakładki File, a następnie klikamy przycisk "Import".
 
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/1.png)
 
