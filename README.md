@@ -76,6 +76,10 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/0.png)
 
+2. 
+
+---
+
 ## ⚙️ Funkcjonalności
 
 - ✅ Napęd sterowany przez PWM z użyciem Timerów
