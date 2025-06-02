@@ -108,7 +108,7 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 9. Następnie przechodzimy do "Debugowania" konfiguracji i wgrania jej na mikrokontroler. Wszystko odbywa się za pomocą przycisku "Debug"
 
-![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/7.png)
+![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/77.png)
 
 ---
 
