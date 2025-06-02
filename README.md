@@ -72,24 +72,24 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 ## 🛠️ Uruchomienie projektu
 
-1. Pobranie programu [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) - zalecana jest najnowsza wersja oprogramowania.
+1. Kluczowym krokiem jest pobranie programu [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) - zalecana jest najnowsza wersja oprogramowania.
 
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/0.png)
 
-2. Pobranie plików projektu
+2. Następnie należy pobrać plik RC-CAR.zip, który znajduje się w repozytorium.
 
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/9.png)
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/10.png)
 
-3.
+3. W programie przechodzimy do zakładki File, a następnie klikamy przycisk "Import"
 
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/1.png)
 
-4. 
+4. W okienku "Import" należy rozwinąć zakładke "General", a później zaznaczyć opcję "Exitsting Projects into Workspace", a następnie kliknąć "Next"
 
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/2.png)
 
-5. 
+5. W dalszym kroku za pomocą przycisku "Browse" wybieramy ścieżke, w której znajduje się nasz projekt i klikamy przycisk "Finish".
 
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/3.png)
 
