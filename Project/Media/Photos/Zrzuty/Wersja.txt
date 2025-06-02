@@ -1,2 +1,0 @@
-Wersja STM32CubeIDE: 1.18.1
-Link do pobrania: https://www.st.com/en/development-tools/stm32cubeide.html
