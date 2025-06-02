@@ -78,6 +78,33 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 2. 
 
+![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/1.png)
+
+3. 
+
+![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/2.png)
+
+4. 
+
+![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/3.png)
+
+
+5. 
+
+![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/4.png)
+
+6. 
+
+![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/5.png)
+
+7. 
+
+![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/6.png)
+
+8. 
+
+![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/7.png)
+
 ---
 
 ## ⚙️ Funkcjonalności
