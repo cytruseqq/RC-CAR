@@ -70,6 +70,12 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 ---
 
+## 🛠️ Uruchomienie projektu
+
+1. Pobranie programu [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) - zalecana jest najnowsza wersja oprogramowania.
+
+![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/0.png)
+
 ## ⚙️ Funkcjonalności
 
 - ✅ Napęd sterowany przez PWM z użyciem Timerów
