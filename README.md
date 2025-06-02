@@ -112,7 +112,7 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 ---
 
-## 🛠️ Konfiguracja aplikacji Bluetooth Serial Terminal
+## 📱 Konfiguracja aplikacji Bluetooth Serial Terminal
 
 ---
 
