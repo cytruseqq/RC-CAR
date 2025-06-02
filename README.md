@@ -81,11 +81,11 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/9.png)
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/10.png)
 
-3. W programie przechodzimy do zakładki File, a następnie klikamy przycisk "Import"
+3. W programie przechodzimy do zakładki File, a następnie klikamy przycisk "Import".
 
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/1.png)
 
-4. W okienku "Import" należy rozwinąć zakładke "General", a później zaznaczyć opcję "Exitsting Projects into Workspace", a następnie kliknąć "Next"
+4. W okienku "Import" należy rozwinąć zakładke "General", a później zaznaczyć opcję "Exitsting Projects into Workspace", a następnie kliknąć "Next".
 
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/2.png)
 
@@ -94,21 +94,25 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/3.png)
 
 
-6. 
+6. Po udanym imporcie, możemy rozwinąć nasz projekt, a następnie przejść do pliku projektowego, aby zobaczyć jak są skonfigurowane poszczególne piny.
 
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/4.png)
 
-7. 
+7. Następnie przechodzimy do "Core", które rozwijamy, dalej rozwijamy, zakładke "Src", tam przechodzimy do pliku "main.c", w którym znajduje się główny kod projektu.
 
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/5.png)
 
-8. 
+8. Przed wgraniem konfiguracji na mikrokontroler należy wykonać build programu, aby sprawdzić czy nasz kod nie zawiera błędów. Wykonujemy to za pomocą ikony "młoteczka".
 
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/6.png)
 
-9. 
+9. Następnie przechodzimy do "Debugowania" konfiguracji i wgrania jej na mikrokontroler.
 
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/Zrzuty/7.png)
+
+---
+
+## 🛠️ Konfiguracja aplikacji Bluetooth Serial Terminal
 
 ---
 
