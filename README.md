@@ -114,7 +114,31 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 ---
 
-## 📱 Konfiguracja aplikacji Bluetooth Serial Terminal
+## 📱 Aplikacja sterująca
+
+---
+
+1. Aplikacja [Bluetooth Serial Terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=pl)
+
+2. Konfiguracja aplikacji 
+
+Indeks a - tryb robota autonomiczny
+Indeks m - tryb robota manualny
+Indeks f - jazda do przodu z mocą PWM 700
+Indeks b - jazda do tyłu z mocą PWM 700
+Indeks r - skręt w prawo z mocą PWM 700
+Indeks l - skręt w lewo z mocą PWM 700
+Indeks s - stop
+Indeks 4 - jazda do tyłu z mocą PWM 900
+Indeks 5 - jazda do przodu z mocą PWM 600
+Indeks 9 - jazda do przodu z mocą PWM 900
+Indeks O - wyłączenie LED
+Indeks 1 - animacja LED numer 1
+Indeks 3 - animacja LED numer 3
+
+3. Gotowa aplikacja do połączenia za pomocą Bluetooth
+
+![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/aplikacja_sterująca.png)
 
 ---
 
