@@ -36,6 +36,8 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/schemat_układu.png)
 
+![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/schemat_układu2.png)
+
 ## 🔌 Opis połączeń
 
 - Silnik 1: L298N -> OUT1, OUT2
