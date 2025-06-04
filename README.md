@@ -56,7 +56,7 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 - Czujnik odległościowy: HC-SR04  Echo -> STM32 PA1
 - Czujnik odległościowy: HC-SR04  Trig -> STM32 PA4
 - Czujnik odległościowy: HC-SR04  VCC -> STM32 5V
-- Moduł bluetooth: HC-05 VCC -> 5V
+- Moduł bluetooth: HC-05 VCC -> STM32 5V
 - Moduł bluetooth: HC-05 GND -> STM32 GND
 - Moduł bluetooth: HC-05 TXD -> STM32 PA3
 - Wyświetlacz: OLED GND -> STM32 GND
