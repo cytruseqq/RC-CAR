@@ -136,8 +136,6 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 - Indeks 1 - animacja LED numer 1
 - Indeks 3 - animacja LED numer 3
 
----
-
 3. Gotowa aplikacja do połączenia za pomocą Bluetooth
 
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/aplikacja_sterująca.jpg)
