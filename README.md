@@ -118,7 +118,7 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 ---
 
-1. Pobranie aplikacji [Bluetooth Serial Terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=pl) [DZIAŁA TYLKO NA ANDROIDZIE]
+1. Pobranie aplikacji [Bluetooth Serial Terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=pl) [Android]
 
 2. Skonfigurowanie aplikacji - dodanie nowych przycisków z konkretną nazwą i indeksem
 
