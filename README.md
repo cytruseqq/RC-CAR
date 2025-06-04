@@ -159,7 +159,6 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 | `600 PRZÓD`   | Moc PWM ustawiona na 600 do przodu  |
 | `900 PRZÓD`   | Moc PWM ustawiona na 900 do przodu  |
 | `LED1`   | Pierwszy tryb pierścieni LED  |
-| `LED2`   | Drugi tryb pierścieni LED  |
 | `LED3`   | Trzeci tryb pierścieni LED  |
 
 ---
