@@ -122,8 +122,6 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 2. Konfiguracja aplikacji 
 
----
-
 - Indeks a - tryb robota autonomiczny
 - Indeks m - tryb robota manualny
 - Indeks f - jazda do przodu z mocą PWM 700
@@ -134,7 +132,7 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 - Indeks 4 - jazda do tyłu z mocą PWM 900
 - Indeks 5 - jazda do przodu z mocą PWM 600
 - Indeks 9 - jazda do przodu z mocą PWM 900
-- Indeks O - wyłączenie LED
+- Indeks O - wyłączenie obu ringów LED
 - Indeks 1 - animacja LED numer 1
 - Indeks 3 - animacja LED numer 3
 
