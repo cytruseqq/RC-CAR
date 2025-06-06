@@ -72,6 +72,15 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 ---
 
+## 🖨️ Model 3D
+
+- Projekt obudowy jest wykonany na bazie gotowego modelu, który został publicznie udostępniony do kopiowania oraz edytowania, źródło: [Model](https://www.tinkercad.com/things/fXfpehDFToz-copy-of-car-car-car) - z modelu zostały usunięte koła oraz znaczna część podwozia w celu zmieszczenia podzespołów robota
+
+![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/model3D_1.png)
+![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/model3D_2.png)
+
+- Wymiary modelu: długość – 35cm, szerokość – 24cm, wysokość – 14cm
+---
 ## 🛠️ Uruchomienie projektu
 
 1. Kluczowym krokiem jest pobranie programu [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) - zalecana jest najnowsza wersja oprogramowania.
