@@ -74,7 +74,8 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 ## 🖨️ Model 3D
 
-- Projekt obudowy jest wykonany na bazie gotowego modelu, który został publicznie udostępniony do kopiowania oraz edytowania, źródło: [Model](https://www.tinkercad.com/things/fXfpehDFToz-copy-of-car-car-car) - z modelu zostały usunięte koła oraz znaczna część podwozia w celu zmieszczenia podzespołów robota
+- Projekt obudowy jest wykonany na bazie gotowego modelu, który został publicznie udostępniony do kopiowania oraz edytowania, źródło: [Model 3D](https://www.tinkercad.com/things/fXfpehDFToz-copy-of-car-car-car)
+- Z modelu zostały usunięte koła oraz znaczna część podwozia w celu zmieszczenia podzespołów robota
 
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/model3D_1.png)
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/model3D_2.png)
