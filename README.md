@@ -194,7 +194,7 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 - [x] Test zasilania bateryjnego
 - [x] Sterowanie ruchem w czasie rzeczywistym
 
-## 📸 Demo i zdjęcia
+## 📸 Zdjęcia i nagrania
 
 - Zdjęcia pojazdu: [`/Project/Media/Photos/`](./Project/Media/Photos/)
 - Nagranie testów: [`/Project/Media/Videos/`](./Project/Media/Videos/)
@@ -205,7 +205,7 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 Pełna dokumentacja projektu znajduje się w folderze [`/Project/Docs/`](./Project/Docs/), w tym:
 - Raport końcowy (PDF)
 - Schematy układów
-- Lista komponentów
+- Dokumentacja mikrokontrolera
 
 
 ## 🧠 Wnioski
