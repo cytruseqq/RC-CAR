@@ -72,6 +72,16 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 ---
 
+## 🖨️ Model 3D
+
+- Projekt obudowy jest wykonany na bazie gotowego modelu, który został publicznie udostępniony do kopiowania oraz edytowania, źródło: [Model 3D](https://www.tinkercad.com/things/fXfpehDFToz-copy-of-car-car-car)
+- Z modelu zostały usunięte koła oraz znaczna część podwozia w celu zmieszczenia podzespołów robota.
+
+![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/model3D_11.png)
+![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/model3D_2.png)
+
+- Wymiary modelu: długość – 35cm, szerokość – 24cm, wysokość – 14cm.
+---
 ## 🛠️ Uruchomienie projektu
 
 1. Kluczowym krokiem jest pobranie programu [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) - zalecana jest najnowsza wersja oprogramowania.
@@ -114,7 +124,30 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 ---
 
-## 📱 Konfiguracja aplikacji Bluetooth Serial Terminal
+## 📱 Aplikacja sterująca
+
+
+1. Pobranie aplikacji [Bluetooth Serial Terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=pl) [Android]
+
+2. Skonfigurowanie aplikacji - dodanie nowych przycisków z konkretną nazwą i indeksem
+
+- Indeks a - tryb robota autonomiczny
+- Indeks m - tryb robota manualny
+- Indeks f - jazda do przodu z mocą PWM 700
+- Indeks b - jazda do tyłu z mocą PWM 700
+- Indeks r - skręt w prawo z mocą PWM 700
+- Indeks l - skręt w lewo z mocą PWM 700
+- Indeks s - stop
+- Indeks 4 - jazda do tyłu z mocą PWM 900
+- Indeks 5 - jazda do przodu z mocą PWM 600
+- Indeks 9 - jazda do przodu z mocą PWM 900
+- Indeks O - wyłączenie obu ringów LED
+- Indeks 1 - animacja LED numer 1
+- Indeks 3 - animacja LED numer 3
+
+3. Gotowa aplikacja do połączenia za pomocą Bluetooth
+
+![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/aplikacja_sterująca.jpg)
 
 ---
 
@@ -170,7 +203,7 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 - [x] Test zasilania bateryjnego
 - [x] Sterowanie ruchem w czasie rzeczywistym
 
-## 📸 Demo i zdjęcia
+## 📸 Zdjęcia i nagrania
 
 - Zdjęcia pojazdu: [`/Project/Media/Photos/`](./Project/Media/Photos/)
 - Nagranie testów: [`/Project/Media/Videos/`](./Project/Media/Videos/)
@@ -181,7 +214,7 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 Pełna dokumentacja projektu znajduje się w folderze [`/Project/Docs/`](./Project/Docs/), w tym:
 - Raport końcowy (PDF)
 - Schematy układów
-- Lista komponentów
+- Dokumentacja mikrokontrolera
 
 
 ## 🧠 Wnioski
