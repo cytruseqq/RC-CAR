@@ -7,6 +7,13 @@ Repozytorium zawiera kod, dokumentację oraz materiały projektowe.
 
 ---
 
+## 🚘Wygląd pojazdu 
+
+![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/robot_z_obudowa1.jpg)
+![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/robot_z_obudowa2.jpg)
+
+---
+
 ## 📌 Opis projektu
 
 Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pomocą mikrokontrolera STM32. Pojazd porusza się w trybie manualnym oraz automatycznym, gdzie omija przeszkody. Komunikacja z użytkownikiem odbywa się przez UART (Bluetooth). Pojazd jest zasilony 6 bateriami AA, generującymi łącznie 9V co umożliwia w pełni zasilenie pojazdu wraz z jego komponentami.
@@ -69,10 +76,6 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 - Pierścień 2: LED 5V -> L298N 5V
 - Pierścień 2: LED GND -> STM32 GND
 - Pierścień 2: LED DI -> Pierścień 1 LED DO
-
----
-
-## 🏎️ Obudowa
 
 ---
 ## 🛠️ Uruchomienie projektu
