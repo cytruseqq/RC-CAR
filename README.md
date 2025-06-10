@@ -10,7 +10,7 @@ Repozytorium zawiera kod, dokumentację oraz materiały projektowe.
 ## 🚘Wygląd pojazdu 
 
 ![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/robot_z_obudowa11.jpg)
-![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/robot_z_obudowa2.jpg)
+![Schemat RC-CAR](https://github.com/cytruseqq/RC-CAR/raw/main/Project/Media/Photos/robot_z_obudowa22.jpg)
 
 ---
 
